@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+A 3rd year undergraduate student with passion in website and mobile, but currently I am learning machine learning in cybersecurity.
 
 **ikhsansdqq/ikhsansdqq** is a currently making ✨ _special project_ ✨
 
