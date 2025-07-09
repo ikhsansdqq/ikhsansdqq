@@ -1,18 +1,15 @@
 # Hi there 👋
-A final year computer science student with passion in website and mobile, but currently I am a machine learning and website developer.
+A dedicated person for tech and ML, really loves to build products for the user ❤️
 
 **ikhsansdqq/ikhsansdqq** is a currently making ✨ _special project_ ✨
 
-- 🔭 I’m currently working on A website for undergraduate student
-- 🌱 I’m currently learning Machine Learning in Cybersecurity
+- 🌱 A machine learning person
 - 👯 I’m looking to collaborate on A project in Cybersecurity, Website, or Mobile Application
 - 💬 Ask me about Any open-source or need help with your project
 - 📫 How to reach me: ikhsansdqq@gmail.com | 
 - 😄 Specialization:
-  - Java & Kotlin Springboot
-  - Android Mobile Application
   - Typescript & Javascript NodeJS
-  - Classification & Regression Machine Learning
+  - Machine learning in time series
   - UI/ UX Design
-- ⚡ Fun fact: I love coffee.
+- ⚡ _how high would you dream if you knew you couldn't fail (from someone wise)_
 
