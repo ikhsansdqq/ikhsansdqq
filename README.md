@@ -1,15 +1,21 @@
-# Hi there 👋
-A dedicated person for tech and ML, really loves to build products for the user ❤️
+## Ikhsan Assidiqie
 
-**ikhsansdqq/ikhsansdqq** is a currently making ✨ _special project_ ✨
+AI-powered full-stack software engineer focused on building production-grade web systems with real users.
 
-- 🌱 A machine learning person
-- 👯 I’m looking to collaborate on A project in Cybersecurity, Website, or Mobile Application
-- 💬 Ask me about Any open-source or need help with your project
-- 📫 How to reach me: ikhsansdqq@gmail.com | 
-- 😄 Specialization:
-  - Typescript & Javascript NodeJS
-  - Machine learning in time series
-  - UI/ UX Design
-- ⚡ _how high would you dream if you knew you couldn't fail (from someone wise)_
+### What I Do
+- Design and ship scalable web applications using TypeScript, Node.js, and Next.js
+- Integrate machine learning models into backend services for real-world use cases
+- Build systems with clear tradeoffs around performance, reliability, and cost
 
+### Current Focus
+- Shipping an AI-assisted web product used by real users
+- Improving system observability, performance, and failure handling
+- Writing technical breakdowns of production decisions and lessons learned
+
+### Tech Stack
+- **Languages:** TypeScript, JavaScript, Python  
+- **Backend:** Node.js, REST APIs  
+- **Frontend:** Next.js, React  
+- **Databases:** PostgreSQL, Supabase
+- **ML Integration:** PyTorch (inference & backend integration)  
+- **Infra:** Docker, Vercel
